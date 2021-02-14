@@ -24,3 +24,4 @@ of
 Wij doen zelfs voor ons zelf alles in het Engels want dan kan je later makelijk code overdragen.
 
 - Martin
+  (komt de wijziging aan?)
